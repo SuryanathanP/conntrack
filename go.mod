@@ -1,4 +1,4 @@
-module github.com/ti-mo/conntrack
+module github.com/SuryanathanP/conntrack
 
 go 1.18
 
